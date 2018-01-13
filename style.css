@@ -41,13 +41,20 @@ span#style_with:after {
 
 
 }
+.fa.fa-pinterest-p {
+    margin-right: -21px;
+}
+.fa.fa-facebook {
+    margin-right: -21px;
+}
 #nav_top {
 color: black;
-padding-top: 35px;
+padding-top: 27px;
 
 }
 #nav_top a{
 color: black;
+padding-right: 25px;
 
 }
 
@@ -156,7 +163,7 @@ color:#cccccc;
 }
 .social_ico {
     float: right;
-    letter-spacing: 5px;
+    letter-spacing: 15px;
 
 }
 .navbar-nav.nav_hover1 a:hover {
@@ -199,7 +206,7 @@ letter-spacing: 4px;
     display:inline-flex;
 }
 .img_gal>img{
-padding-right: 16px;
+padding-right: 5px;
 
 }
 
@@ -233,7 +240,7 @@ padding-top: 83px;
 }
 
 .img_gal img:last-child {
-    width:22.4%;
+    width:100%;
 }
 .white {
     letter-spacing: 2px;
@@ -268,6 +275,9 @@ hr{
 color: black !important;
 
 }
+.navbar-header.top_icons_all {
+    margin-top: 17px;
+}
 
 div#nav_top {
     padding-top: 5px;
@@ -276,10 +286,10 @@ div#nav_top {
 .under_line:after {
     content: "";
     background-color: black;
-    width: 139%;
+    width: 137.4%;
     height: 2px;
     position: absolute;
-    top: 72px;
+    top: 90px;
     left: 172px;
     right: 0;
 }
@@ -294,7 +304,7 @@ font-size: 29px;
 }
 .navbar-brand {
     text-align: center !important;
-    padding-top: 10%;
+    padding-top: 13%;
     font-size: 50px;
     color: black;
 }
@@ -310,12 +320,12 @@ input[type=text], input[type=password] {
 }
 
 .foot_nav {
-    padding-left: 272px;
+    padding-left: 180px;
     border-top: 2px solid #e8e3e0;
 }
 
 .foot_nav li>a{
-padding-right: 50px;
+padding-right: 62px;
 color: #cccccc;
 font-size: 12px;
 letter-spacing: 1px;
